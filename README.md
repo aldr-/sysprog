@@ -32,7 +32,7 @@ Die Aufgabe selbst wird in mehrere Teile unterteilt:
 - Symboltabelle
 
 - Tests
-  der Test nimmt zwei Dateien entgegen, eine Ein und Ausgabe Datei
+    der Test nimmt zwei Dateien entgegen, eine Ein und Ausgabe Datei
 
 Jeder Teil benötigt ein eigenes "Makefile-Projekt" in Eclipse. Noch ist nicht ganz klar was damit genau gemeint ist.
 
