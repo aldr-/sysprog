@@ -1,7 +1,7 @@
 Systemnahes Programmieren
 =========================
 
-Ziel dieser Arbeit ist die Implementierung der Laboraufgabe/n und deren Dokumentation.
+Ziel dieser Arbeit ist die Implementierung der Laboraufgaben, Teil I-III  und deren Dokumentation.
 
 Grundvoraussetzung ist das ALLE Teile selbst programmiert werden. Es dürfen also keine STL
 Klassen verwendet werden. Dies ist notwendig um die vorher eingeführten Konzepte in der Praxis 
