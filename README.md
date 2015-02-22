@@ -16,6 +16,8 @@ Die Aufgabe selbst wird in mehrere Teile unterteilt:
   + String
     da die String Klasse nicht verwendet werden darf, muss man sich selbst eine basteln.
   + SmartPointer
+    wird nicht explizit verlangt ist aber sicherlich für die Speicherverwaltung ein gut geeignetes Mittel
+    um manuelle, lästige Speicherverwaltung zu umgehen
 
 - Scanner
   + HashTable
